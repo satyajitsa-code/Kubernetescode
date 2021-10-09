@@ -1,0 +1,2 @@
+Each of the 5 (worker, voting, result, redis, postgres) pods have deployment file where the replica's have been set for the PODs
+Only 4 pods (voting, result, redis, postgres) have service files   
